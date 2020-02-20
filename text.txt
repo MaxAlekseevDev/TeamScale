@@ -1,0 +1,6 @@
+The higher level you are as a developer, the more of these questions you’ll know to ask. It’s not a matter of experience either. While that helps, it doesn’t make you any better if you can’t pick out the unknowns.
+I don’t expect most people to pick out these unknowns. Until I started working the algorithm in my head, I didn’t know them all either. Unknowns take time to figure out. It’s a lot of discussion and back-and-forth with business people to find all the kinks.
+Looking at his image, it appears as though the distribution is random. He used only 3 colors and never said anything otherwise, so we will too. We’ll also assume there’s a likelihood all colors will be the same.
+Since it could kill our algorithm, I’m going to assume we’re working with a 100x100 grid. That way, we don’t have to deal with the odd cases of 1 row and 10K columns.
+In a typical setting, I would ask all these questions within the first few hours of data-discovery. That’s what TechLead really cared about. Are you gonna start by coding a random solution or are you going to figure out the problem?
+You’re going to make mistakes in your data model. I know I did when first writing this article, but if you plan ahead, those issues will be a lot easier to manage. I ended up having to only rewrite small portions of my code because of it.
